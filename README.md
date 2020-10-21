@@ -1,8 +1,8 @@
 # Coding-Solutions
 
-In a class of n students having m subjects, Teacher has to remove the marks of a subject for all the students doing which the max number of students get pass.
+## In a class of n students having m subjects, Teacher has to remove the marks of a subject for all the students doing which the max number of students get pass.
 
-Example
+### Example
 ```sh
 std: 3
 mar: 5
@@ -11,7 +11,7 @@ arr: [[48,89,31,10,100], [45,67,89,34,54], [92,73,54,10,90]]
 Output: [309, 268, 255]
 ```
 <details>
-<summary>I could use some help...</summary>
+<summary>## Solution</summary>
 <p>
 
 ```sh
