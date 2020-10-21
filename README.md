@@ -1,4 +1,4 @@
-# Coding-Solutions
+# Coding Solutions
 
 > Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@hsajwan7](https://twitter.com/hsajwan7) for technical updates.
 
