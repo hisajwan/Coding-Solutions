@@ -11,8 +11,10 @@ arr: [[48,89,31,10,100], [45,67,89,34,54], [92,73,54,10,90]]
 Output: [309, 268, 255]
 ```
 <details>
-    <summary><h3>Solution</h3></summary>
-    <p>
+<summary>
+### Solution
+</summary>
+<p>
 ```sh
         function findMaxPass(std, mar, arr) {
             let marArr = [];
@@ -36,6 +38,6 @@ Output: [309, 268, 255]
             return stdMarArr.sort((a, b) => b-a);
         }
 ```
-    </p>
+</p>
 </details>  
 
