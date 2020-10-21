@@ -1,6 +1,6 @@
 # Coding-Solutions
 
-## In a class of n students having m subjects, Teacher has to remove the marks of a subject for all the students doing which the max number of students get pass.
+## Given a list of 'n' students, every student is marked in 'm' subjects. Each student is denoted by an index value. The teacher has to ignore the mark for any 1 subject, and calculate the total marks of each student in the other subjects and then sort the marks in ascending order. The teacher decided to ignore the mask of the same subject for each student. He/ She has to select the subject in which the whole class scored the least (the lowest of the average of all the students in each subject) to ignore.
 
 ### Example
 ```sh
@@ -37,7 +37,7 @@ Output: [309, 268, 255]
                 }
                 stdMarArr.push(stdMarTotal);
             }
-            return stdMarArr.sort((a, b) => b-a);
+            return stdMarArr.sort((a, b) => a-b);
         }
 ```
 
