@@ -76,9 +76,9 @@ You can download the PDF and Epub version of this repository from the latest run
     </p>
     </details>
 
-**[⬆ Go to Top](#table-of-contents)**
+    **[⬆ Go to Top](#table-of-contents)**
 
 2. ### In progress <a name="solution-2"></a>
 
 
-**[⬆ Go to Top](#table-of-contents)**
+    **[⬆ Go to Top](#table-of-contents)**
