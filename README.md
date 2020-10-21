@@ -1,4 +1,5 @@
 # Coding-Solutions
+[![Build Status](https://github.com/hsajwan/Coding-Solutions.git?branch=main)](https://github.com/hsajwan/Coding-Solutions.git)
 
 In a class of n students having m subjects, Teacher has to remove the marks of a subject for all the students doing which the max number of students get pass.
 
