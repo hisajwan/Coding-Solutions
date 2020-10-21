@@ -35,7 +35,7 @@ You can download the PDF and Epub version of this repository from the latest run
 |5| [](#)|
 |6| [](#)|
 
-1. ### Given a list of 'n' students, every student is marked in 'm' subjects. Each student is denoted by an index value. The teacher has to ignore the mark for any 1 subject, and calculate the total marks of each student in the other subjects and then sort the marks in ascending order. The teacher decided to ignore the mask of the same subject for each student. He/ She has to select the subject in which the whole class scored the least (the lowest of the average of all the students in each subject) to ignore.
+1. ### Given a list of 'n' students, every student is marked in 'm' subjects. Each student is denoted by an index value. The teacher has to ignore the mark for any 1 subject, and calculate the total marks of each student in the other subjects and then sort the marks in ascending order. The teacher decided to ignore the mask of the same subject for each student. He/ She has to select the subject in which the whole class scored the least (the lowest of the average of all the students in each subject) to ignore. <a name="1"></a>
 
     ##### Example
     ```sh
