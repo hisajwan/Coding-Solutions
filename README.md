@@ -14,7 +14,6 @@ Output: [309, 268, 255]
 <summary>I could use some help...</summary>
 <p>
 
-Solution
 ```sh
 function findMaxPass(std, mar, arr) {
     let marArr = [];
