@@ -38,7 +38,7 @@ You can download the PDF and Epub version of this repository from the latest run
 1. ### Given a list of 'n' students, every student is marked in 'm' subjects. Each student is denoted by an index value. The teacher has to ignore the mark for any 1 subject, and calculate the total marks of each student in the other subjects and then sort the marks in ascending order. The teacher decided to ignore the mask of the same subject for each student. He/ She has to select the subject in which the whole class scored the least (the lowest of the average of all the students in each subject) to ignore. <a name="solution-1"></a>
 
     ##### Example
-    ```javascript
+    ```js
     std: 3
     mar: 5
     arr: [[48,89,31,10,100], [45,67,89,34,54], [92,73,54,10,90]]
