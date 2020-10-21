@@ -15,6 +15,7 @@ Output: [309, 268, 255]
 ### Solution
 </summary>
 <p>
+
 ```sh
         function findMaxPass(std, mar, arr) {
             let marArr = [];
@@ -38,6 +39,7 @@ Output: [309, 268, 255]
             return stdMarArr.sort((a, b) => b-a);
         }
 ```
+
 </p>
 </details>  
 
