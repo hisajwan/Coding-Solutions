@@ -12,7 +12,9 @@ Output: [309, 268, 255]
 ```
 <details>
 <summary>
+
 ### Solution
+
 </summary>
 <p>
 
